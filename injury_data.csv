@@ -1,0 +1,43 @@
+season,injury,start_date,end_date,duration_in_days,games_missed
+22/23,Calf Problems,"Oct 5, 2022","Oct 13, 2022",8 days,3
+22/23,Rest,"Dec 26, 2022","Jan 3, 2023",8 days,2
+21/22,Fitness,"Aug 1, 2021","Aug 26, 2021",25 days,4
+21/22,Knee Problems,"Oct 29, 2021","Nov 11, 2021",13 days,3
+21/22,Quarantine,"Jan 6, 2022","Jan 20, 2022",14 days,2
+21/22,Flu,"Mar 17, 2022","Mar 24, 2022",7 days,1
+20/21,Hamstring Injury,"Jan 12, 2021","Jan 15, 2021",3 days,1
+19/20,Adductor problems,"Sep 25, 2019","Oct 1, 2019",6 days,1
+22/23,Achilles tendon problems,"Nov 5, 2022","Nov 7, 2022",2 days,1
+22/23,Knee Problems,"Feb 8, 2023","Feb 13, 2023",5 days,2
+21/22,Bone Bruise,"Sep 20, 2021","Sep 27, 2021",7 days,2
+21/22,Corona virus,"Jan 1, 2022","Jan 5, 2022",4 days,1
+21/22,Quarantine,"Jan 6, 2022","Jan 20, 2022",14 days,2
+20/21,Ankle Injury,"Dec 23, 2020","Jan 1, 2021",9 days,1
+19/20,Foot Injury,"Aug 5, 2019","Sep 16, 2019",42 days,6
+18/19,Forearm Fracture,"Oct 21, 2018","Nov 9, 2018",19 days,5
+18/19,Forearm Fracture,"Oct 21, 2018","Nov 9, 2018",19 days,5
+17/18,Adductor problems,"Mar 22, 2018","Mar 30, 2018",8 days,2
+16/17,Torn muscle bundle,"Sep 22, 2016","Oct 15, 2016",23 days,6
+15/16,Medial Collateral Ligament Knee Injury,"Sep 28, 2015","Nov 18, 2015",51 days,13
+15/16,Thigh Problems,"Jan 18, 2016","Jan 21, 2016",3 days,1
+15/16,Back bruise,"May 28, 2016","Jun 10, 2016",13 days,1
+13/14,Thigh Problems,"Aug 11, 2013","Aug 15, 2013",4 days,1
+18/19,Forearm Fracture,"Oct 21, 2018","Nov 9, 2018",19 days,5
+18/19,Pubitis,"Mar 23, 2019","Mar 29, 2019",6 days,1
+16/17,Adductor problems,"Sep 5, 2016","Sep 8, 2016",3 days,1
+16/17,Influenza,"Nov 17, 2016","Nov 21, 2016",4 days,1
+15/16,Kidney problems,"Dec 14, 2015","Dec 17, 2015",3 days,1
+15/16,Kidney stone surgery,"Feb 9, 2016","Feb 14, 2016",5 days,2
+14/15,Ankle problems,"Mar 29, 2015","Mar 31, 2015",2 days,-
+13/14,Thigh Problems,"Aug 22, 2013","Aug 26, 2013",4 days,1
+13/14,Torn muscle bundle,"Nov 11, 2013","Jan 6, 2014",56 days,11
+12/13,Hamstring Injury,"May 13, 2013","Jun 6, 2013",24 days,3
+09/10,Strain,"Aug 10, 2009","Aug 18, 2009",8 days,2
+07/08,Torn muscle bundle,"Mar 6, 2008","Apr 10, 2008",35 days,9
+05/06,Thigh Muscle Strain,"Feb 6, 2006","Feb 16, 2006",10 days,1
+13/14,Hamstring Injury,"Sep 29, 2013","Oct 18, 2013",19 days,4
+12/13,Hamstring Injury,"Apr 3, 2013","Apr 22, 2013",19 days,4
+10/11,Stretched Ligament,"Sep 20, 2010","Sep 27, 2010",7 days,2
+07/08,Hamstring Injury,"Dec 17, 2007","Jan 14, 2008",28 days,6
+06/07,Metatarsal Fracture,"Nov 13, 2006","Feb 8, 2007",87 days,19
+05/06,Torn muscle bundle,"Mar 8, 2006","May 21, 2006",74 days,17
