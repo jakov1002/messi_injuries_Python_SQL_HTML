@@ -1,4 +1,3 @@
-# messi_injuries
 1. Scraped Lionel Messi's injury data from Transfermarkt. 
 2. Transformed two columns' data types from the object type to the integer type 
 3. Uploaded the transformed data into a locally hosted PostgreSQL database.
