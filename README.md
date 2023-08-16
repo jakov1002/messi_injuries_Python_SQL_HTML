@@ -13,4 +13,4 @@ Explanation of the 3 CSV files:
 3.messi_injuries_by_age - the data I used for the purposes of 
 Python-based data analysis and visualization
 
-
+*Used my preferred DBMS' "set as default" option on the corresponding database and schema when writing SQL queries.
